@@ -444,5 +444,5 @@ if (params.get("u")) {
 
 let old_url = "soulcrushingleaderboardproje.github.io";
 if (window.location.hostname == old_url) {
-    window.location.href = window.location.href.replace(old_url, "soulcrushingleaderboardproje.vercel.app");
+    window.location.href = window.location.href.replace(old_url, "soulcrushingleaderboardproj.vercel.app");
 }
